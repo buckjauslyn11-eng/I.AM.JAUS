@@ -1,0 +1,27 @@
+/*
+Jaus Buck 
+03/11/26
+changing colors and fonts 
+*/
+
+h1 {
+ font-family: "Comic Sans MS", Arial, sans-serif;
+ color: purple;
+}
+h2 {
+ font-family: "Comic Sans MS", Arial, sans-serif;
+ color: purple;
+}
+p {
+ color:#8255b0;
+ font-size:18pt;
+}
+ol {
+ list-style: upper-roman;
+}
+
+body {
+ background-color: pink;
+}
+
+/* this is me I hope you enjoy */
